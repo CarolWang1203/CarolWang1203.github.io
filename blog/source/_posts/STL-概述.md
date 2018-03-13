@@ -1,6 +1,10 @@
-
 ---
-title: STL-概述
+date: 2018-03-13 19:16
+toc: true               #用于yilia
+status: public          #公开
+title: STL-概述 #文章名
+tags: [C++,STL]     #tag
+categlory: 学海无涯         #文章分类
 ---
 
 > 注：本文主要参考自《STL 源码剖析》，故涉及到的文件及源码均基于SGI STL(GCC采用)
